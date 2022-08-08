@@ -1,0 +1,192 @@
+{
+  "customer": [
+    {
+      "name": "Drake",
+      "qty": "2",
+      "stock": {
+        "coffeeType": "Latte",
+        "price": "12",
+        "id": 2
+      },
+      "id": 1
+    },
+    {
+      "name": "Cade",
+      "qty": "4",
+      "stock": {
+        "coffeeType": "Orange juice",
+        "price": "3",
+        "id": 6
+      },
+      "id": 2
+    },
+    {
+      "name": "Wane",
+      "qty": "1",
+      "stock": {
+        "coffeeType": "tea",
+        "price": "7",
+        "id": 4
+      },
+      "id": 3
+    },
+    {
+      "name": "Paul",
+      "qty": "1",
+      "stock": {
+        "coffeeType": "Apple juice",
+        "price": "3.2",
+        "id": 7
+      },
+      "id": 4
+    },
+    {
+      "name": "Love",
+      "qty": "3",
+      "stock": {
+        "coffeeType": "Chocolate ",
+        "price": "3.4",
+        "id": 9
+      },
+      "id": 5
+    },
+    {
+      "name": "Plato",
+      "qty": "2",
+      "stock": {
+        "coffeeType": "Grape",
+        "price": "2.2",
+        "id": 11
+      },
+      "id": 6
+    },
+    {
+      "name": "Dave",
+      "qty": "1",
+      "stock": {
+        "coffeeType": "coffee with cream",
+        "price": "2",
+        "id": 8
+      },
+      "id": 7
+    },
+    {
+      "name": "Cole",
+      "qty": 1,
+      "stock": {
+        "coffeeType": "Chocolate ",
+        "price": "3.4",
+        "id": 9
+      },
+      "id": 8
+    },
+    {
+      "name": "john",
+      "qty": "3",
+      "stock": {
+        "coffeeType": "Apple juice",
+        "price": "3.2",
+        "id": 7
+      },
+      "id": 9
+    }
+  ],
+  "update": [
+    {
+      "id": 1,
+      "price": "13",
+      "coffeeType": "Black coffee"
+    },
+    {
+      "coffeeType": "Latte",
+      "price": "12",
+      "id": 2
+    },
+    {
+      "coffeeType": "Black Tea",
+      "price": "3",
+      "id": 3
+    },
+    {
+      "coffeeType": "tea",
+      "price": "7",
+      "id": 4
+    },
+    {
+      "coffeeType": "Cappuccino ",
+      "price": "14",
+      "id": 5
+    },
+    {
+      "coffeeType": "Orange juice",
+      "price": "3",
+      "id": 6
+    },
+    {
+      "coffeeType": "Apple juice",
+      "price": "3.2",
+      "id": 7
+    },
+    {
+      "coffeeType": "coffee with cream",
+      "price": "2",
+      "id": 8
+    },
+    {
+      "coffeeType": "Chocolate ",
+      "price": "3.4",
+      "id": 9
+    },
+    {
+      "coffeeType": "Pineapple ",
+      "price": "2",
+      "id": 10
+    },
+    {
+      "coffeeType": "Grape",
+      "price": "2.2",
+      "id": 11
+    },
+    {
+      "coffeeType": "Ice Tea",
+      "price": "13",
+      "id": 12
+    },
+    {
+      "coffeeType": "Green Tea",
+      "price": "7",
+      "id": 13
+    },
+    {
+      "coffeeType": "",
+      "price": "",
+      "id": 14
+    },
+    {
+      "coffeeType": "",
+      "price": "",
+      "id": 15
+    },
+    {
+      "coffeeType": "milk shake",
+      "price": "4",
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "coffeeType": "coke",
+      "price": "2",
+      "id": 18
+    },
+    {
+      "coffeeType": "fanta",
+      "price": "20",
+      "id": 19
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

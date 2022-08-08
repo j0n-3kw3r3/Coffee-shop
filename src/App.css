@@ -1,0 +1,61 @@
+* {
+  font-family: " Arial", "Helvetica", "sans-serif";
+  font-family: "Courier New", Courier, monospace;
+}
+body {
+  background: whitesmoke;
+}
+
+.menu ul {
+  margin-top: 100%;
+}
+.menu .li {
+  display: block;
+  list-style: none;
+  padding-bottom: 20px;
+
+  transition: 0.185s;
+  letter-spacing: 0.1em;
+}
+.menu .li:hover {
+  color: rgb(245, 222, 179);
+  font-size: 1.1em;
+}
+.adminauth {
+  margin-top: 20px;
+  justify-content: center;
+}
+.adminauth h2 {
+  margin: 20px auto;
+  text-align: center;
+  color: rgb(111, 78, 55);
+  width: fit-content;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.226);
+}
+.admino {
+  padding: 20px;
+  color: #6f4e37;
+  margin: 0 auto;
+  min-width: fit-content;
+}
+.admino h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 1.4em;
+  text-transform: uppercase;
+  letter-spacing: 0.7em;
+  border-bottom: 1px solid #000;
+  padding: 10px;
+  font-weight: 2px;
+}
+.admino h3 {
+  text-align: center;
+  font-size: 0.9em;
+  letter-spacing: 0.1em;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+.admin {
+  display: flex;
+  justify-content: center;
+}
